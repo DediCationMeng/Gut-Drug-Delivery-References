@@ -62,12 +62,12 @@ python gdd_rebuild_checklist.py --dir .. --window "2024-01-01 至 2026-10-09（�
 
 ## GitHub 说明
 
-- 仓库建议命名：`GDD-Literature-2024-2026`（私有仓库即可）
+- 远程仓库：`https://github.com/DediCationMeng/Gut-Drug-Delivery-References`
 - 上传内容：文献数据库、BibTeX、报告、检索脚本（约 25 MB）
 - **不上传**：PDF 全文（版权）、`raw/` 中间数据、本地备份（见 `.gitignore`）
 
 ```bash
-git remote add origin https://github.com/<你的用户名>/GDD-Literature-2024-2026.git
+git remote add origin https://github.com/DediCationMeng/Gut-Drug-Delivery-References.git
 git branch -M main
 git push -u origin main
 ```
