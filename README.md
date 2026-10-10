@@ -71,3 +71,16 @@ git remote add origin https://github.com/DediCationMeng/Gut-Drug-Delivery-Refere
 git branch -M main
 git push -u origin main
 ```
+
+## 月度增量检索（自动化）
+
+本仓库同时是月度自动化任务「GDD 肠道药物递送文献·月度增量检索」的工作仓库（每月 1 日 09:00 触发）：
+按《[月度增量检索规范.md](月度增量检索规范.md)》检索上个月白名单 20 本期刊的新文献，产出期目录
+`issues/GDD-Literature-YYYY-MM/`（BibTeX、命名清单、月度摘要报告、TOP3 精读、手动下载 Checklist），
+增量合并入根目录累积库，并归档至本 GitHub 仓库。
+
+## 批次记录
+
+| 期 | 窗口 | 新增 | 肠道相关 | 报告 |
+|---|---|---|---|---|
+| 回顾批 | 2024-01-01 ~ 2026-10-09 | 2,307 篇 | 486 篇 | 03_Reports/年度检索汇总报告.md |
