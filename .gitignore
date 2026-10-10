@@ -1,0 +1,15 @@
+# PDF 全文有版权，严禁上传 GitHub
+01_PDF/
+*.pdf
+
+# 检索原始中间数据（Europe PMC/arXiv API 原始响应，可由 tools/ 脚本重新抓取）
+raw/
+
+# 本地备份与临时文件
+literature_database_twins_backup.json
+*.tmp
+*.log
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

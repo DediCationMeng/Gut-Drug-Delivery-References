@@ -1,0 +1,172 @@
+CROSSREF -> 10.1016/j.jconrel.2025.114039 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.114021 | Journal of Controlled Release
+  429 rate-limited, backoff 8 s
+CROSSREF -> 10.1016/j.jconrel.2025.114035 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.114153 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.114025 | Journal of Controlled Release
+  429 rate-limited, backoff 8 s
+  429 rate-limited, backoff 16 s
+CROSSREF -> 10.1016/j.jconrel.2025.114134 | Journal of Controlled Release
+  429 rate-limited, backoff 8 s
+CROSSREF -> 10.1016/j.jconrel.2025.114159 | Journal of Controlled Release
+CROSSREF -> 10.22541/au.173697393.33154133/v1 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.114155 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.114031 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.114026 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.114135 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.114020 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.114146 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.114136 | Journal of Controlled Release
+  429 rate-limited, backoff 8 s
+CROSSREF -> 10.1016/j.jconrel.2025.114125 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.114154 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.biomaterials.2025.123548 | Biomaterials
+CROSSREF -> 10.1016/j.jconrel.2025.114122 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.114144 | Journal of Controlled Release
+  429 rate-limited, backoff 8 s
+  429 rate-limited, backoff 16 s
+  429 rate-limited, backoff 24 s
+CROSSREF -> 10.1016/j.jconrel.2025.114151 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.01.004 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.01.023 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.01.020 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.01.007 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.01.047 | Journal of Controlled Release
+  429 rate-limited, backoff 8 s
+CROSSREF -> 10.1016/j.jconrel.2025.01.017 | Journal of Controlled Release
+  429 rate-limited, backoff 8 s
+  429 rate-limited, backoff 16 s
+CROSSREF -> 10.1016/j.jconrel.2025.01.044 | Journal of Controlled Release
+  429 rate-limited, backoff 8 s
+CROSSREF -> 10.1016/j.jconrel.2025.01.057 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.01.037 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.01.016 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.01.034 | Journal of Controlled Release
+  429 rate-limited, backoff 8 s
+  429 rate-limited, backoff 16 s
+CROSSREF -> 10.1016/j.jconrel.2025.01.001 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.01.062 | Journal of Controlled Release
+  429 rate-limited, backoff 8 s
+CROSSREF -> 10.1016/j.jconrel.2024.12.052 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2024.12.080 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.01.031 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.01.050 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.01.006 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.01.012 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.01.049 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.01.082 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.01.029 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.01.038 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113780 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113769 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113844 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113760 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113813 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113728 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113830 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113798 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113836 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113815 | Journal of Controlled Release
+  429 rate-limited, backoff 8 s
+CROSSREF -> 10.1016/j.jconrel.2025.113787 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113831 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113785 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.matt.2025.102103 | Matter
+CROSSREF -> 10.1016/j.jconrel.2025.113782 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113794 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113835 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113797 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113792 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113903 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113948 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113865 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113893 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113944 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113952 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113932 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113905 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113878 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113937 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113908 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113919 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113899 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113887 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113907 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113929 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113956 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113866 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113924 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113921 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113943 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113884 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113876 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.114028 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113967 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113992 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113962 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113997 | Journal of Controlled Release
+  429 rate-limited, backoff 8 s
+CROSSREF -> 10.1016/j.jconrel.2025.114057 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113966 | Journal of Controlled Release
+  429 rate-limited, backoff 8 s
+CROSSREF -> 10.1016/j.jconrel.2025.114053 | Journal of Controlled Release
+  429 rate-limited, backoff 8 s
+CROSSREF -> 10.1016/j.jconrel.2025.114042 | Journal of Controlled Release
+  429 rate-limited, backoff 8 s
+CROSSREF -> 10.1016/j.jconrel.2025.114019 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.114006 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113965 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.114062 | Journal of Controlled Release
+  429 rate-limited, backoff 8 s
+CROSSREF -> 10.1016/j.jconrel.2025.113955 | Journal of Controlled Release
+  429 rate-limited, backoff 8 s
+CROSSREF -> 10.1016/j.jconrel.2025.114000 | Journal of Controlled Release
+  429 rate-limited, backoff 8 s
+CROSSREF -> 10.1016/j.jconrel.2025.114036 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113971 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.114059 | Journal of Controlled Release
+STILL MISSING: Clinical cancer nanomedicines
+  429 rate-limited, backoff 8 s
+  429 rate-limited, backoff 16 s
+  429 rate-limited, backoff 24 s
+CROSSREF -> 10.1016/j.jconrel.2025.113980 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113986 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113977 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.113974 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.114121 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.jconrel.2025.114113 | Journal of Controlled Release
+  429 rate-limited, backoff 8 s
+CROSSREF -> 10.1016/j.jconrel.2025.114124 | Journal of Controlled Release
+CROSSREF -> 10.1016/j.biomaterials.2025.123390 | Biomaterials
+CROSSREF -> 10.1016/j.biomaterials.2025.123358 | Biomaterials
+CROSSREF -> 10.1016/j.biomaterials.2025.123347 | Biomaterials
+CROSSREF -> 10.1016/j.biomaterials.2025.123401 | Biomaterials
+CROSSREF -> 10.1016/j.biomaterials.2025.123395 | Biomaterials
+CROSSREF -> 10.1016/j.biomaterials.2025.123398 | Biomaterials
+CROSSREF -> 10.1016/j.biomaterials.2025.123411 | Biomaterials
+CROSSREF -> 10.1016/j.biomaterials.2025.123354 | Biomaterials
+CROSSREF -> 10.1016/j.biomaterials.2025.123386 | Biomaterials
+CROSSREF -> 10.1016/j.biomaterials.2025.123389 | Biomaterials
+CROSSREF -> 10.1016/j.biomaterials.2025.123378 | Biomaterials
+STILL MISSING: AIE-active PVA/berberine antibacterial hydrogel for wound healing, visual monitoring pH an
+CROSSREF -> 10.1016/j.biomaterials.2025.123422 | Biomaterials
+CROSSREF -> 10.1016/j.biomaterials.2025.123437 | Biomaterials
+CROSSREF -> 10.1016/j.biomaterials.2025.123420 | Biomaterials
+CROSSREF -> 10.1016/j.biomaterials.2025.123467 | Biomaterials
+CROSSREF -> 10.1016/j.biomaterials.2025.123541 | Biomaterials
+STILL MISSING: An omics-based drug-HIFU combination therapy discovery for ferroptosis treatment of TNBC
+STILL MISSING: Epigenetic-targeted biomimetic nanomedicine modulates epithelial mesenchymal transition to
+CROSSREF -> 10.1016/j.biomaterials.2025.123623 | Biomaterials
+  429 rate-limited, backoff 8 s
+  429 rate-limited, backoff 16 s
+  429 rate-limited, backoff 24 s
+  429 rate-limited, backoff 32 s
+STILL MISSING: Self-assembling heterodimeric prodrug nanoparticles for dual-targeted cancer therapy via t
+CROSSREF -> 10.1016/j.biomaterials.2025.123619 | Biomaterials
+  429 rate-limited, backoff 8 s
+  429 rate-limited, backoff 16 s
+  429 rate-limited, backoff 24 s
+CROSSREF -> 10.1016/j.biomaterials.2025.123620 | Biomaterials
+CROSSREF -> 10.1016/j.biomaterials.2025.123621 | Biomaterials
+done. missing DOI: 5 / 2442
+keep the original English titles in the checklist for manual retrieval - never invent a DOI.
